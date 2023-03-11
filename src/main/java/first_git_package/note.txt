@@ -11,6 +11,7 @@
     *git remote add origin https://github.com/abayramus/first_git_project.git
     *git push -u origin main
     *****Then your code should be pushed to github. REFRESH YOUR PAGE TO SEE THE CODE
+<<<<<<< HEAD
 
 NOTE: git status    ->   This is our friend. This can be used anytime to see the progress
 
@@ -20,3 +21,6 @@ NOTE: git status    ->   This is our friend. This can be used anytime to see the
             *git add .
             *git commit -m "added my second java class"
             *git push
+=======
+NOTE: git status    ->   This is our friend. This can be used anytime to see the progress
+>>>>>>> 150747c7378ad482d962f85b0950f10f59121ab3
