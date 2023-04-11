@@ -13,9 +13,7 @@
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="8e797788-d73a-40c3-9912-bfbd1ae81833">
-      <console name="Connection" type="STANDARD" schema="pfmegrnargs" session="Main"><![CDATA[select *
-from rnacen.rna
-where len=1500;]]></console>
+      <console name="Connection" type="STANDARD" schema="pfmegrnargs" session="Main" />
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseEditorStateManager">
